@@ -14,9 +14,10 @@ Hello! I'm Felippe, a dedicated student pursuing a degree in Accounting at FEA-U
   - Programming: Knowledgeable in Python.
   - Design: Familiar with Figma.
 
-## Connect with Me
-
-Feel free to reach out for collaborations or if you're interested in discussing finance, languages, or technology. (Note: Include social media or professional network links here, such as LinkedIn, if available.)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/felippe-bertollo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felippe-bertollo" height="30" width="40" /></a>
+</p>
 
 ## My Interests
 
