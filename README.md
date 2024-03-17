@@ -1,12 +1,10 @@
-# Felippe's GitHub
+## Felippe's GitHub
 
 ## About Me
 I'currently graduating in Accounting at FEA-USP. having previous experiences in both financial and administrative area, I'm currently in contact with internal auditing activities. Additionally, I've been having a deeper contact with both Spanish (basic level) and English (advanced certified level) languages in my job routine, aslo with knowledges in various useful tools such as Excel, Python, Word, PowerPoint, Google Docs, Figma etc.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## Connect with me
 <a href="https://linkedin.com/in/felippe-bertollo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felippe-bertollo" height="30" width="40" /></a>
-</p>
 
 ## Experience
 - JPMorgan Chase LATAM Internal Audit Intern (2023 - current)
